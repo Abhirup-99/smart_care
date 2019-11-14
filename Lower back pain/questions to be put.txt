@@ -1,0 +1,53 @@
+1. Pelvic incidence is defined as the angle between a line perpendicular to the sacral
+plate at its midpoint and a line connecting this point to the femoral head axis.
+The pelvic incidence is a fixed morphological parameter, whose value remains more or less constant throughout adult life.
+It is an algebraic sum of two dynamic angles: the pelvic tilt and the sacral slope.
+Please enter your value of Pelvic incidence.(In degrees).
+
+
+
+2.Pelvic tilt is the orientation of the pelvis in respect to the thighbones and the rest of the body. 
+The pelvis can tilt towards the front, back, or either side of the body.
+Please enter your pelvic tilt angle (In degrees).
+
+
+
+3. Lumbar Lordosis Angle (LLA) is an ideal parameter for the evaluation of lumbar lordosis.
+The normal value of LLA can be defined as 20-45 degrees with a range of 1 SD.
+Please enter your value of LLA.(In degrees).
+
+
+4.The sacral slope ( SS ) is measured between the tangent line to the superior endplate of S1 and the horizontal plane ( a ).
+Please enter the value in degrees.
+
+
+5.The Pelvic Radius Angle (PRA) is measured from the PR line (as defined in the literature) to the horizontal. 
+Normal values are always <90°, but >55°.Please enter your PRA(in degrees).
+
+
+6.Spondylolysis is the medical term for a spine fracture or defect that occurs at the region of the pars interarticularis. 
+Later on it might lead to spondylolisthesis(a condition in which the vertebra slips out of the place ).
+Please mention your degree of spondylolisthesis?
+
+7.Pelvic slope from 0 to 1?
+
+
+8.Direct tilt or Pelvic tilt (PT) is a position-dependent parameter defined as the angle created by a line running 
+from the sacral end plate midpoint to the center of the bifemoral heads and the vertical axis.
+Patients with a PT of less than 20 are classified with a PT modifier 0
+Patients with a PT between 20 and 30 are classified with a PT modifier +
+Patients with a PT of greater than 30 are classified with a PT modifier ++
+Please enter your value of tilt?
+
+
+9. Please enter your value of thoracic slope?
+
+
+10.Please enter your value of cervical tilt?
+
+
+11.The sacral angle is the angle formed by the true conjugate with the two pieces of sacrum. 
+Please enter your values?
+
+
+12.Please enter your scoliosis slope.
